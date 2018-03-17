@@ -3,7 +3,7 @@
     "description": "Data Autocomplete",
     "type": "library",
 
-    "license": "Apache 2.0",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "Alexey Kutuzov",
