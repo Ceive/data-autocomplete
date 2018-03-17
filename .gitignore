@@ -1,0 +1,32 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/
+composer.lock
+Would skip repository vendor/doctrine/instantiator
+Would skip repository vendor/myclabs/deep-copy
+Would skip repository vendor/phpdocumentor/reflection-common
+vendor/phpdocumentor/reflection-docblock
+vendor/phpdocumentor/type-resolver
+Would skip repository vendor/phpspec/prophecy
+Would skip repository vendor/phpunit/php-code-coverage
+Would skip repository vendor/phpunit/php-file-iterator
+Would skip repository vendor/phpunit/php-timer
+Would skip repository vendor/phpunit/php-token-stream
+Would skip repository vendor/phpunit/phpunit-mock-objects
+vendor/phpunit/php-text-template
+vendor/phpunit/phpunit
+Would skip repository vendor/sebastian/code-unit-reverse-lookup
+Would skip repository vendor/sebastian/comparator
+Would skip repository vendor/sebastian/diff
+Would skip repository vendor/sebastian/environment
+Would skip repository vendor/sebastian/exporter
+Would skip repository vendor/sebastian/global-state
+Would skip repository vendor/sebastian/object-enumerator
+Would skip repository vendor/sebastian/recursion-context
+Would skip repository vendor/sebastian/resource-operations
+Would skip repository vendor/sebastian/version
+Would skip repository vendor/symfony/yaml
+Would skip repository vendor/webmozart/assert
+vendor/autoload.php
+vendor/bin
+vendor/composer
